@@ -1,31 +1,97 @@
 {
   "posts": [
     {
+      "userId": 1,
       "id": 1,
-      "title": "Post 1"
+      "title": "Pikachu"
     },
     {
+      "userId": 1,
       "id": 2,
-      "title": "Post 2"
+      "title": "Entrenador"
     },
     {
+      "userId": 1,
       "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Pokemon"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "userId": 1,
+      "id": 4,
+      "title": "Torneo"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "Villa pokemon"
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "Enfrentamiento Pokemon"
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "Evolucion"
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "Charmander"
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "title": "Squirtle"
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "title": "Huevos"
+    },
+    {
+      "userId": 2,
+      "id": 11,
+      "title": "Doctores"
+    },
+    {
+      "userId": 2,
+      "id": 12,
+      "title": "Equipo Rocket"
+    },
+    {
+      "userId": 2,
+      "id": 13,
+      "title": "Koffing"
+    },
+    {
+      "userId": 2,
+      "id": 14,
+      "title": "Medalla"
+    },
+    {
+      "userId": 2,
+      "id": 15,
+      "title": "Zygarde"
+    },
+    {
+      "userId": 2,
+      "id": 16,
+      "title": "Arceus"
+    },
+    {
+      "userId": 2,
+      "id": 17,
+      "title": "Nidoking"
+    },
+    {
+      "userId": 2,
+      "id": 18,
+      "title": "Sableye"
     }
   ],
   "profile": {
-    "name": "typicode"
-  }
+      "name": "typicode"
+    }
 }
